@@ -18,3 +18,12 @@ bash init_setup.sh
 
 conda activate ./env
 ```
+# Python run file
+```
+python filename.py
+```
+
+# for installing all the packages
+```
+pip install -r requirements.txt
+```
