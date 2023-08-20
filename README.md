@@ -27,3 +27,13 @@ python filename.py
 ```
 pip install -r requirements.txt
 ```
+
+# For checking all the packages
+```
+pip list
+```
+
+# To run Frontend / Streamlit
+```
+streamlit run akh.py
+```
